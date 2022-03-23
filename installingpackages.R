@@ -1,2 +1,3 @@
 install.packages("downlit")
-install.packages("xml2")
+library(downlit)
+library(xml2)
